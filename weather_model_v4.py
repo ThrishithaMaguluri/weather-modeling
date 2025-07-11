@@ -1,7 +1,7 @@
 # weather_model_v4.py
 # Read multiple sets of a, b, c, t from a file
 
-with open('weather_input_multiple.txt', 'r') as file:
+with open('weather input multiple.txt', 'r') as file:
     lines = file.readlines()
 
 for line in lines:
