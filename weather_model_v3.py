@@ -1,7 +1,7 @@
 # weather_model_v3.py
 # Read values of a, b, c, and t from a file
 
-with open('weather_input.txt', 'r') as file:
+with open('weatherinput.txt', 'r') as file:
     a = float(file.readline())
     b = float(file.readline())
     c = float(file.readline())
